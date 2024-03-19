@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../static-kitty-book"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vue-kitty-book"
+	}
+}

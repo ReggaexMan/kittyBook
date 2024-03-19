@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "vue-kitty-book",
+			"path": "../.."
+		},
+		{
+			"name": "static-kitty-book",
+			"path": "../../../static-kitty-book"
+		}
+	],
+	"settings": {}
+}
